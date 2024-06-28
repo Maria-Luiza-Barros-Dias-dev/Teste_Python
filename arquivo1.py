@@ -1,3 +1,3 @@
 # print("Hello World!")
 
-f = open ('receita.txt', 'r')
+f = walk ('receita.txt', 'r')
